@@ -1,0 +1,18 @@
+{
+  "name": "leftpaw",
+  "version": "1.0.0",
+  "description": "just like leftpad but with paws",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/lost-kitten/leftpaw"
+  },
+  "keywords": [
+      "leftpad"
+  ],
+  "author": "Elia Rodriguez elle0586@my.codergv.org",
+  "license": "ISC"
+}
